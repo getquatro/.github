@@ -1,1 +1,1 @@
-# .github
+Tidy rectangular data
